@@ -147,27 +147,22 @@ These augmentations improve model robustness and reduce overfitting.
 
 ## Accuracy Curve
 
-<p align="center">
-  <img src="images/accuracy_curve.png" width="700">
-</p>
+<img width="728" height="474" alt="image" src="https://github.com/user-attachments/assets/e1d63d00-e1b3-40a9-b758-1a8b59b86087" />
 
 ## IoU Curve
 
-<p align="center">
-  <img src="images/iou_curve.png" width="700">
-</p>
+<Figure size 800x500 with 1 Axes><img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/97c287ae-35ce-4c68-9a2e-b48fe89f3b9c" />
+
 
 ## Dice Coefficient Curve
 
-<p align="center">
-  <img src="images/dice_curve.png" width="700">
-</p>
+Figure size 800x500 with 1 Axes><img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/e7df6d64-913e-43ea-a153-3d807bb9759a" />
+
 
 ## Loss Curve
 
-<p align="center">
-  <img src="images/loss_curve.png" width="700">
-</p>
+<Figure size 800x500 with 1 Axes><img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/a8c32999-604c-4d02-838a-095d9aa5ecc0" />
+
 
 The training results indicate stable convergence and strong validation performance throughout the training process.
 
@@ -220,9 +215,7 @@ Harmonic mean of Precision and Recall.
 
 # Confusion Matrix
 
-<p align="center">
-  <img src="images/confusion_matrix.png" width="650">
-</p>
+<Figure size 800x600 with 2 Axes><img width="631" height="547" alt="image" src="https://github.com/user-attachments/assets/2b387ee5-a2d5-4521-afca-6ee04e0d3fbd" />
 
 ### Classification Report
 
@@ -237,9 +230,8 @@ Overall Accuracy: **86%**
 
 # Segmentation Results
 
-<p align="center">
-  <img src="images/segmentation_results.png" width="900">
-</p>
+<Figure size 1000x1500 with 15 Axes><img width="917" height="1490" alt="image" src="https://github.com/user-attachments/assets/7b41e8e9-3235-49ec-a456-f54512f9d0fd" />
+
 
 The generated segmentation masks closely match the ground-truth flood regions, demonstrating the model's ability to accurately detect inundated areas.
 
