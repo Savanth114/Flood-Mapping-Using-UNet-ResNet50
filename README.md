@@ -70,9 +70,7 @@ The model was trained using the **Synthetic Flood Imagery for Image Segmentation
 
 ### Sample Dataset Images
 
-<p align="center">
-  <img src="images/dataset_samples.png" width="700">
-</p>
+<img width="288" height="287" alt="image" src="https://github.com/user-attachments/assets/54425a4c-7846-4439-846c-70cc33544b30" />
 
 ---
 
