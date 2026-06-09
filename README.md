@@ -53,7 +53,10 @@ The proposed architecture consists of:
 
 # Dataset
 
-The model was trained using the **Synthetic Flood Imagery for Image Segmentation Dataset** available on Kaggle.
+The model was trained using the Synthetic Flood Imagery for Image Segmentation dataset available on Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/samiwood/synthetic-flood-imagery-for-image-segmentation
 
 ### Dataset Characteristics
 
@@ -152,6 +155,32 @@ These augmentations improve model robustness and reduce overfitting.
 * NVIDIA Tesla T4 GPU
 * Intel Xeon CPU
 * 12–26 GB RAM
+
+---
+
+How to Run
+Clone the Repository
+git clone https://github.com/Savanth114/Flood-Mapping-Using-UNet-ResNet50.git
+cd Flood-Mapping-Using-UNet-ResNet50
+Install Dependencies
+pip install tensorflow keras numpy opencv-python matplotlib scikit-learn
+Download Dataset
+
+Download the dataset from Kaggle and update the dataset paths inside the notebook.
+
+Run Notebook
+
+Open:
+
+Unet_Resnet50.ipynb
+
+Run all cells sequentially to:
+
+Load the dataset
+Preprocess images
+Train the model
+Evaluate performance
+Generate segmentation predictions
 
 ---
 
