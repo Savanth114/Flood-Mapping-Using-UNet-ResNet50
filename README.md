@@ -41,9 +41,7 @@ The proposed architecture consists of:
 * Enhanced segmentation accuracy
 * Strong generalization capability
 
-<p align="center">
-  <img src="images/model_architecture.png" width="700">
-</p>
+<img width="377" height="383" alt="image" src="https://github.com/user-attachments/assets/607e2b40-d661-447f-94d0-12baa4b27a7a" />
 
 ---
 
