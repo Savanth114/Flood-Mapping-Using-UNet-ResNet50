@@ -41,7 +41,13 @@ The proposed architecture consists of:
 * Enhanced segmentation accuracy
 * Strong generalization capability
 
-<img width="377" height="383" alt="image" src="https://github.com/user-attachments/assets/607e2b40-d661-447f-94d0-12baa4b27a7a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/607e2b40-d661-447f-94d0-12baa4b27a7a" width="500">
+</p>
+
+<p align="center">
+  <em>Figure 1. Proposed UNet–ResNet50 Architecture</em>
+</p>
 
 ---
 
@@ -68,9 +74,15 @@ The model was trained using the **Synthetic Flood Imagery for Image Segmentation
 | Validation | 15%        |
 | Testing    | 15%        |
 
-### Sample Dataset Images
+<h3 align="center">Sample Dataset Images</h3>
 
-<img width="288" height="287" alt="image" src="https://github.com/user-attachments/assets/54425a4c-7846-4439-846c-70cc33544b30" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54425a4c-7846-4439-846c-70cc33544b30" width="400">
+</p>
+
+<p align="center">
+  <em>Examples from the Synthetic Flood Imagery for Image Segmentation dataset used for training and evaluation.</em>
+</p>
 
 ---
 
