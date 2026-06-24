@@ -380,3 +380,11 @@ This project demonstrates the effectiveness of a hybrid UNet–ResNet50 architec
 # License
 
 This project is licensed under the MIT License.
+
+---
+
+## Contact
+
+**Savanth G**  
+📧 savanthg14@gmail.com  
+🌐 LinkedIn : linkedin.com/in/savanth-g-65454a36b
